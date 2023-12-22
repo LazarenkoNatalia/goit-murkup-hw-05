@@ -484,3 +484,46 @@ width: 264px;
 .foot-icon-item:focus {
     background-color: #31D0AA;
 }
+
+/* foot-form */
+
+.foot-wrapper {
+    margin-left: auto;
+}
+
+.wrap_subscribe {
+
+}
+
+.foot-form{
+
+}
+
+.subs-email{
+
+}
+
+.subs-email-inp{
+color: #4D5AE5;
+background: #2E2F42;
+width: 453px;
+    height: 80px;
+}
+
+.foot-btn-subs{
+    display: inline-flex;
+        padding: 8px 24px;
+        justify-content: center;
+        align-items: center;
+        gap: 16px;
+        font-weight: 500;
+        line-height: 1.5em;
+        letter-spacing: 0.04em;
+        border-radius: 4px;
+        background: #4D5AE5;
+        color: #FFFFFF;
+}
+
+.send-icon{
+   fill: #FFFFFF;
+}
