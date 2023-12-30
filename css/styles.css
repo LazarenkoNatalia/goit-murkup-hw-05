@@ -547,7 +547,7 @@ outline: transparent;
 
 .send-icon{
    fill: #FFFFFF;
-margin-left: 16px;
+/* margin-left: 16px; */
 }
 
 .backdrop {
@@ -713,7 +713,7 @@ resize: none;
         font-size: 12px;
         line-height: 1.17;
         letter-spacing: 0.04em;
-        padding-left: 16px;;
+        /* padding-left: 16px;; */
 }
 
 /* Custom checkbox */
@@ -723,7 +723,7 @@ resize: none;
 }
 .form-agreement {
     display: block;
-    margin-bottom: 40px;
+    margin-bottom: 24px;
 
    
     letter-spacing: -0.02em;
